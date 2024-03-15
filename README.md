@@ -48,9 +48,7 @@ This is a list of some of that things that you can do on this dataset. It's not 
         <li>which products have high percentage discount where percentage discount > 60% ?</li>
         <li>are there other category ? if exits tell me the top 10 categories that have high prices ?</li>
         <li>is there any relationship between acutal price and rating or rating count ?</li>
-        <li>is there any relation between discount percentage & rating ?</li>
         <li>who are users that are loyaltly for our company ?</li>
-        <li>is there are any good reviews or bad reviews classify them for each product?</li>
         <li>are the user buy products that their discount price more than 50% ?  </li>
     </ul>
 </p>
